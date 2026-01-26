@@ -1,0 +1,13 @@
+name: nlp
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - seaborn
+  - matplotlib
+  - pandas
+  - ipykernel
+  - nltk
+  - spacy
+  - scikit-learn
+prefix: /Users/ds0/miniconda3/envs/nlp
